@@ -6,7 +6,7 @@ Fun and Interactive (Parodic) BASH Shell AI that acts a useful Digital Assistant
 Features include:
 
 1) Useful information.
-2) Chheky conversation.
+2) Cheeky conversation.
 3) Interactiveness.
 4) Fun games.
 5) Easter eggs.
