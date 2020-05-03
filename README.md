@@ -1,4 +1,7 @@
 # BASH-AI
+
+(A work in progresss!)
+
 Fun and Interactive (Parodic) BASH Shell AI that acts a useful Digital Assistant of sorts...All while providing you with Fun, Humour, Laughter and a cheeky way to pass your time.
 Features include:
 
